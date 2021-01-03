@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-demoa-dev-233538-authRole",
+      "UnauthRoleArn": "arn:aws:iam::807121410401:role/amplify-demoa-dev-233538-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::807121410401:role/amplify-demoa-dev-233538-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-demoa-dev-233538-deployment",
+      "UnauthRoleName": "amplify-demoa-dev-233538-unauthRole",
+      "StackName": "amplify-demoa-dev-233538",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:807121410401:stack/amplify-demoa-dev-233538/4e491660-4dee-11eb-881a-02acec4c14d0",
+      "AmplifyAppId": "d1gd3ql2rky5nd"
+    }
+  }
+}

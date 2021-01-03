@@ -3,12 +3,12 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div className="App py-2">
+      <header className="App-header mb-4">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        <div class="flex justify-center">
           Edit <code>src/App.js</code> and save to reload.
-        </p>
+        </div>
         <a
           className="App-link"
           href="https://reactjs.org"
