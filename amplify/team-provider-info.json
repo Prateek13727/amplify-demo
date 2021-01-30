@@ -10,6 +10,11 @@
       "StackName": "amplify-demoa-dev-233538",
       "StackId": "arn:aws:cloudformation:ap-southeast-1:807121410401:stack/amplify-demoa-dev-233538/4e491660-4dee-11eb-881a-02acec4c14d0",
       "AmplifyAppId": "d1gd3ql2rky5nd"
+    },
+    "categories": {
+      "auth": {
+        "demoa1ea5fd2d": {}
+      }
     }
   }
 }
